@@ -1,8 +1,6 @@
-# Multicomponent_relativistic_thermlization
-
 # README #
 
-This is a repostitory by University of Notre Dame PhD students Atul Kedia and Nishanth Sasankan
+This is a repostitory by University of Notre Dame students Atul Kedia and Nishanth Sasankan
 
 Here you will find a lot of codes and data that look very similar to each other. As a general rule, do not use
 codes/data from here that are older than Dec-2019. Those are legacy codes used to make a more current version
