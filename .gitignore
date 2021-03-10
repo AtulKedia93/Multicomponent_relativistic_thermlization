@@ -5,5 +5,5 @@
 *.f
 *.dat
 *.jpg
-APS19generatingplots.m
-scat.m
+*APS19generatingplots.m
+*scat.m
