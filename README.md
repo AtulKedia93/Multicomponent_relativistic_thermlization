@@ -4,6 +4,7 @@ This is a repostitory by University of Notre Dame Ph.D. student Atul Kedia to sh
 MATLAB for simulating thermalization of nuclei present during big bang nucleosynthesis as described in :
 
 Phys. Rev. D 101, 123532 - https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.123532, https://arxiv.org/abs/1911.07334
+
 Phys. Rev. E 103, 032101 - https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.032101, https://arxiv.org/abs/2004.13186
 
 Here you will find a lot of codes and data that look very similar to each other. As a general rule, please don't
@@ -24,4 +25,4 @@ The most important files for the thermalization are
 Some of the 3D and 2D files typically need a module called "randpdf.m"
 (Adam Nieslony (2021). Random numbers from a user defined distribution (https://www.mathworks.com/matlabcentral/fileexchange/26003-random-numbers-from-a-user-defined-distribution), MATLAB Central File Exchange.)
 
-- Atul (10/March/2021)
+Atul (10/March/2021)
